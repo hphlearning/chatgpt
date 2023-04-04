@@ -1,3 +1,7 @@
+chatgpt 镜像源：文献，ppt ，周报，readme，邮件，智能文案，siteexplainer , https://ainav.sciencat.net/chatgpt
+
+
+
 > **新视频发布了**
 
 [活捉ChatGPT手机APP！内置100个AI模型【南柯】](https://docs.qq.com/doc/DTnBGb1JEcmNtaHB6)（2023/03/27发布）
